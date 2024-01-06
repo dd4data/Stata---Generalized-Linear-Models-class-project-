@@ -2,8 +2,8 @@
 * GLM Final Project -- Data Analysis
 ********************************************************************
 
-cd "C:\Users\kaiji\OneDrive - University of Virginia\GLM study buddy\Final Project"
-use NELS88_cleaned, clear
+cd "" //change your directory
+use NELS88_cleaned, clear //this dataset should be stored in your directory
 browse
 
 * Descriptive stataistics & Bivariate relationships
