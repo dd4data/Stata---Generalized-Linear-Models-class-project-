@@ -2,9 +2,9 @@
 * GLM Final Project -- Data Cleaning
 ********************************************************************
 
-cd "C:\Users\kaiji\OneDrive - University of Virginia\GLM study buddy\Final Project"
+cd "" //change your directory 
 
-use NELS88_reduced, clear
+use NELS88_reduced, clear //this dataset should be stored in your directory
 
 keep BYS44B STU_ID BYS12 BYCNCPT1 BYSES BYTXRPRO BYTXMPRO
 
